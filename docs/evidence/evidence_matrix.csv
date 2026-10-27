@@ -1,0 +1,2 @@
+﻿claim_id,claim,source_type,source_ref,spec_version,date_accessed,notebook,status
+C01,"MCP does not define a task lifecycle",spec,"MCP spec, section X",,2026-10-27,02_mcp,to_verify
